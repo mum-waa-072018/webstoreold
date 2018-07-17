@@ -39,7 +39,7 @@
 	<bean id="dataSource"
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://albert6.com:3306/waa" />
+		<property name="url" value="jdbc:mysql://albert6.com:3306/lightning" />
 		<property name="username" value="waa" />
 		<property name="password" value="123456" />
 	</bean>

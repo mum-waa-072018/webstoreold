@@ -1,6 +1,6 @@
  
 
-Use waa;
+Use lightning;
 INSERT INTO `Address` VALUES (NULL,'442 Glenwood Avenue','Culver City','CA', '87547');
 INSERT INTO `Address` VALUES (NULL,'1 Yellow Brook Road','Emerald City','OZ', '12345');
  
